@@ -91,7 +91,8 @@ Includes:
 ---
 
 ##  How to Run This Project
-1. Open Excel → Review summary stats & pivots  
+1. Excel Analysis → Review summary stats & pivots
+Download Excel file: [Click here](https://drive.google.com/drive/folders/1lR2UASM69c4TbpEw0A4JSUaxtRBplWhi?usp=sharing)  
 2. Open Python notebook → Run all cells to reproduce analysis  
 3. Open Power BI file → Explore dashboard insights  
 
